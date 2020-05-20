@@ -1,6 +1,12 @@
 # pwa-memo
 
+對遇到的問題做一些筆記  
+
 ## manifest
+* 該網域不安全，但想測試的話，可以於 ```chrome://flags/#unsafely-treat-insecure-origin-as-secure``` 加入該網域
+
+
+## service worker
 
 ## ios
 * 目前不支援 beforeinstallprompt，參考: [這裡](https://developer.mozilla.org/en-US/docs/Web/API/BeforeInstallPromptEvent)
